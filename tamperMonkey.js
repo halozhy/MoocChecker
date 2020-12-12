@@ -5,6 +5,7 @@
 // @description  一键自动互评一项作业
 // @author       halozhy
 // @match        *://www.icourse163.org/learn/*
+// @match        *://www.icourse163.org/spoc/learn/*
 // @grant        none
 // ==/UserScript==
 
